@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/parse-result.js": {
+      "maxDuration": 30
+    }
+  }
+}

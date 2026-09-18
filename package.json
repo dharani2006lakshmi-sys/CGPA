@@ -1,0 +1,13 @@
+{
+  "name": "cgpa-calculator",
+  "version": "1.0.0",
+  "description": "A full-stack CGPA calculator and PDF marksheet parser using Gemini API on Vercel.",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
